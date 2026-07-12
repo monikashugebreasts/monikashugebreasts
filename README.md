@@ -21,3 +21,9 @@ ___
 
 
 ```MIGHT b seen @ bakery , @ docks or @ the bottom of the map on pony town !```
+___
+
+
+<img width="156" height="105" alt="Image" src="https://github.com/user-attachments/assets/43701e17-ae28-4778-a2d9-29c472fc1a7c" />  
+
+$${\\color{green}MONIKA: \\space i \\space love \\space Angelii!}$$
