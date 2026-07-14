@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312g5ndmcem6ygck7amv3iv66xkm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312g5ndmcem6ygck7amv3iv66xkm&cover_image=false&theme=default&show_offline=true&background_color=ffb0e1&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff">
+  </a>
+</p>
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/46dada27-1aa7-4d59-ba6d-ce11d0cb5727" />
  
 $${\\color{green}i \\space could \\space never \\space harm \\space monika.}$$
