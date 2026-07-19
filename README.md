@@ -1,4 +1,1 @@
-
-$\color{#F8D5E8}{\text{ ata soon...}}$
-
-<img width="635" height="511" alt="Image" src="https://github.com/user-attachments/assets/ad85de8d-f750-43a7-9340-3f7e0e7c04a6" />
+<img width="736" height="500" alt="Image" src="https://github.com/user-attachments/assets/1b5d91e2-e86e-49a4-95f9-81a6a2514ba7" />
